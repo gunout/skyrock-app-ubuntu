@@ -36,6 +36,16 @@
 Interface sombre, visualiseur audio animé, contrôles repliables, popup de liens vers les sections du site officiel : tout est pensé pour une expérience fluide et discrète.
 
 ---
+## SCREENSHOTS 
+
+
+<img width="450" height="70" alt="sky " src="https://github.com/user-attachments/assets/f2954b58-5903-4b78-8826-eb6c87831524" />
+
+<img width="380" height="380" alt="sky 2" src="https://github.com/user-attachments/assets/e5f388ae-cdbd-49d7-b6cf-788c2a0e73da" />
+
+<img width="450" height="420" alt="sky 3" src="https://github.com/user-attachments/assets/c86223c2-64ef-43e8-b975-302189959a07" />
+
+---
 
 ## 🎯 Fonctionnalités
 
