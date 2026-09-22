@@ -8,9 +8,10 @@
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.5%2B-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PyQt6/)
 [![mpv](https://img.shields.io/badge/mpv-player-691F69?style=for-the-badge&logo=mpv&logoColor=white)](https://mpv.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%2B-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-0078D6?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)](#)
-[![PRs](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge)](#contribuer)
+[![PRs](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=for-the-badge)](https://github.com/gunout/skyrock-app-ubuntu/pulls)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](#)
 
 <br>
@@ -56,8 +57,8 @@ Interface sombre, visualiseur audio animé, contrôles repliables, popup de lien
 ### Méthode automatique (recommandée)
 
 ```bash
-git clone https://github.com/gleaphe/skyrock-radio.git
-cd skyrock-radio
+git clone https://github.com/gunout/skyrock-app-ubuntu.git
+cd skyrock-app-ubuntu
 chmod +x install.sh
 ./install.sh
 ```
@@ -122,7 +123,7 @@ python3 skyrock_radio.py
 ## 📁 Structure du projet
 
 ```
-skyrock-radio/
+skyrock-app-ubuntu/
 ├── skyrock_radio.py    # Application principale
 ├── install.sh          # Script d'installation automatique
 ├── run.sh              # Lanceur généré (après install)
@@ -189,7 +190,7 @@ Les contributions sont **les bienvenues** !
 
 ## 🐛 Signaler un bug
 
-Ouvre une [issue](https://github.com/gleaphe/skyrock-radio/issues) avec :
+Ouvre une [issue](https://github.com/gunout/skyrock-app-ubuntu/issues) avec :
 - Ton OS et version
 - La version Python
 - Les logs d'erreur
@@ -198,7 +199,7 @@ Ouvre une [issue](https://github.com/gleaphe/skyrock-radio/issues) avec :
 
 ## 📜 Licence
 
-Distribué sous licence **MIT**. Voir [`LICENSE`](LICENSE) pour plus d'infos.
+Distribué sous licence **MIT**. Voir [`LICENSE`](https://github.com/gunout/skyrock-app-ubuntu/blob/main/LICENSE) pour plus d'infos.
 
 ---
 
@@ -212,7 +213,7 @@ Distribué sous licence **MIT**. Voir [`LICENSE`](LICENSE) pour plus d'infos.
 
 <div align="center">
 
-**Fait avec ❤️ par [gleaphe](https://github.com/gleaphe)**
+**Fait avec ❤️ par [gunout](https://github.com/gunout)**
 
 ⭐ N'oublie pas de mettre une étoile si ce projet t'a plu !
 
